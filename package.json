@@ -13,6 +13,10 @@
     "type": "git",
     "url": "https://github.com/balazs-lengyel/transformer-elm.git"
   },
+  "engines": {
+    "node": ">= 12.0.0",
+    "parcel": "^2.5.0"
+  },
   "dependencies": {
     "@parcel/diagnostic": "2.5.0",
     "@parcel/plugin": "2.5.0",
